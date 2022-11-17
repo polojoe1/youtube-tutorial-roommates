@@ -11,7 +11,7 @@ const Navbar = (props) => {
     }
   return (
     <>
-    <div className='pl-[12%] pr-[12%] sticky flex justify-between h-20 w-full bg-[#00a2db] m-auto'>
+    <div className='pl-[10%] pr-[10%] sticky flex justify-between h-20 w-full bg-[#00a2db] m-auto'>
 
         {/* Hamburger Menu */}
         <div onClick={burgerFlick} className="md:hidden cursor-pointer flex w-[50%] justify-between items-center">
@@ -45,7 +45,7 @@ const Navbar = (props) => {
     </div>
     {/* Hamburger when clicked */}
 
-    {open?<div className="flex absolute w-[100%] top-1 opacity-90 h-[100%] bg-[#00a2db] flex-col">
+    {open?<div className="flex absolute z-[3] w-[100%] top-1 opacity-90 h-[100%] bg-[#00a2db] flex-col">
     <div className="flex justify-between items-center p-5">
         
         <div className="div flex items-center">
