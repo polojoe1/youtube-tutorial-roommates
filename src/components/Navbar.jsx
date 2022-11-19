@@ -7,7 +7,7 @@ const Navbar = (props) => {
 
     const burgerFlick = () =>{
         setOpen(!open)
-        console.log(open)
+        
     }
   return (
     <>

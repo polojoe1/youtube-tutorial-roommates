@@ -12,7 +12,7 @@ const Footer = (props) => {
             <div  className='h-8 w-8 bg-white rounded-full flex items-center justify-center mr-3'><img className='h-4' src={Twit} alt="" /></div>
             <div  className='h-8 w-8 bg-white rounded-full flex items-center justify-center mr-3'><img className='h-4' src={Ig} alt="" /></div>
         </div>
-        {/* Right */}
+        {/* Right  */}
         <div className="flex flex-col xs:items-center md:items-end text-white">
             <div className="top mb-3 text-xs"><p>©2022 Roommates.com®</p></div>
             <div className="bottom text-xs">
