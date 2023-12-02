@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/youtube-tutorial-roommates/static/css/main.cd6d4061.css",
+    "main.js": "/youtube-tutorial-roommates/static/js/main.0be0e159.js",
+    "static/js/787.3475603a.chunk.js": "/youtube-tutorial-roommates/static/js/787.3475603a.chunk.js",
+    "static/media/me.png": "/youtube-tutorial-roommates/static/media/me.066e2c338550a902fe42.png",
+    "static/media/lightWoman.png": "/youtube-tutorial-roommates/static/media/lightWoman.6f7c4087ddf77bc7bed8.png",
+    "static/media/brownWoman.png": "/youtube-tutorial-roommates/static/media/brownWoman.270e12457594e382966d.png",
+    "static/media/brownMan.png": "/youtube-tutorial-roommates/static/media/brownMan.12a61f6118375696f6c0.png",
+    "static/media/lightMan.png": "/youtube-tutorial-roommates/static/media/lightMan.df87a7d14f6bd3faaad3.png",
+    "index.html": "/youtube-tutorial-roommates/index.html",
+    "main.cd6d4061.css.map": "/youtube-tutorial-roommates/static/css/main.cd6d4061.css.map",
+    "main.0be0e159.js.map": "/youtube-tutorial-roommates/static/js/main.0be0e159.js.map",
+    "787.3475603a.chunk.js.map": "/youtube-tutorial-roommates/static/js/787.3475603a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6d4061.css",
+    "static/js/main.0be0e159.js"
+  ]
+}
